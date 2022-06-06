@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ys1113457623&label=Profile%20views&color=0e75b6&style=flat" alt="ys1113457623" /> </p>
 
