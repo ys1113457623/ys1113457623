@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ys1113457623/PARPHRASING-TOOL-PUSHPA-](https://github.com/ys1113457623/PARPHRASING-TOOL-PUSHPA-)
 
-- 💬 Ask me about **Python , Java** , Dart
+- 💬 Ask me about **Python , Java , Dart**
 
 - 📫 How to reach me **ys1113457623@gmail.com**
 
