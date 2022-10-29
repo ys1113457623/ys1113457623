@@ -17,7 +17,7 @@
 - 📫 How to reach me **ys1113457623@gmail.com**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YUIRLup33rUpxz4nt05e74TGB8VmR1Os/view](https://drive.google.com/file/d/1YUIRLup33rUpxz4nt05e74TGB8VmR1Os/view)
+
 
 
 <h3 align="left">Connect with yoouknowme:</h3>
