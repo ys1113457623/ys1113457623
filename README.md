@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://ys1113457623.medium.com/how-to-create-video-carousel-i-n-flutter-ee9ab3ae614e](https://ys1113457623.medium.com/how-to-create-video-carousel-i-n-flutter-ee9ab3ae614e)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, DSA**
 
 - 📫 How to reach me **ys1113457623@gmail.com**
 
