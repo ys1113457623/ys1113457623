@@ -6,7 +6,7 @@
 
 - 🔭 My Portfolio Is[My Portfolio](https://ys1113457623.github.io/SahilSharma.github.io/)
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **DJANGO**
 
 - 👨‍💻 All of my projects are available at [https://ys1113457623.github.io/SahilSharma.github.io/](https://ys1113457623.github.io/SahilSharma.github.io/)
 
